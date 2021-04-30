@@ -1,1 +1,29 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+ <atom:link href="http://..." rel="self" type="application/rss+xml"/>
+ <title>Nome da canle</title>
+ <link>http://...</link>
+ <description>Descrición da canle</description>
+ <language>gl</language>
+ <pubDate>Tue, 01 Jan 2013 12:00:00 +0000</pubDate>
+ <copyright>gl</copyright>
+ <image>
+    <url>http://...</url>
+    <title>Título da imaxe</title>
+    <link>http://...</link>
+ </image>
+ <ttl>60</ttl>
+ <item>
+    <title>Título do artigo</title>
+    <description>Descrición do artigo</description>
+    <link>http://...</link>
+    <author>autor_do_artigo@direccion.email (Autor Artigo)</author>
+    <pubDate>Tue, 01 Jan 2013 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">http://...</guid>
+    <category domain="http://...">Nome da categoría</category>
+    <source url="http://...">Nome da canle de orixe</source>
+ </item>
+ …
+ </channel>
+</rss>

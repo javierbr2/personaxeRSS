@@ -6,7 +6,6 @@
  <link>http://...</link>
  <description>Personaxes de Matrix</description>
  <language>gl</language>
- <pubDate>Tue, 05 May 2021 12:00:00 +0000</pubDate>
  <copyright>gl</copyright>
  <image>
     <url>http://...</url>
@@ -18,8 +17,7 @@
     <title>Neo</title>
     <description>Descrición do artigo</description>
     <link>http://...</link>
-    <author>bello.rodriguez.javier.ald@gmail.com (Autor Artigo)</author>
-    <pubDate>Tue, 05 May 2021 12:00:00 +0000</pubDate>
+  <author>bello.rodriguez.javier.ald@gmail.com (Autor Artigo)</author>
     <guid isPermaLink="false">http://...</guid>
     <category domain="http://...">PersoaxesRSS</category>
     <source url="http://...">Matrix</source>
@@ -29,7 +27,6 @@
     <description>Descrición do artigo</description>
     <link>http://...</link>
     <author>bello.rodriguez.javier.ald@gmail.com (Autor Artigo)</author>
-    <pubDate>Tue, 05 May 2021 12:00:00 +0000</pubDate>
     <guid isPermaLink="false">http://...</guid>
     <category domain="http://...">PersoaxesRSS</category>
     <source url="http://...">Matrix</source>
@@ -39,7 +36,6 @@
     <description>Descrición do artigo</description>
     <link>http://...</link>
     <author>bello.rodriguez.javier.ald@gmail.com (Autor Artigo)</author>
-    <pubDate>Tue, 05 May 2021 12:00:00 +0000</pubDate>
     <guid isPermaLink="false">http://...</guid>
     <category domain="http://...">PersoaxesRSS</category>
     <source url="http://...">Matrix</source>
@@ -49,7 +45,6 @@
     <description>Descrición do artigo</description>
     <link>http://...</link>
     <author>bello.rodriguez.javier.ald@gmail.com (Autor Artigo)</author>
-    <pubDate>Tue, 05 May 2021 12:00:00 +0000</pubDate>
     <guid isPermaLink="false">http://...</guid>
     <category domain="http://...">PersoaxesRSS</category>
     <source url="http://...">Matrix</source>
@@ -59,7 +54,6 @@
     <description>Descrición do artigo</description>
     <link>http://...</link>
     <author>bello.rodriguez.javier.ald@gmail.com (Autor Artigo)</author>
-    <pubDate>Tue, 05 May 2021 12:00:00 +0000</pubDate>
     <guid isPermaLink="false">http://...</guid>
     <category domain="http://...">PersoaxesRSS</category>
     <source url="http://...">Matrix</source>

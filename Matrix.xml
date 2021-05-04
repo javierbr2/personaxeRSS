@@ -7,31 +7,31 @@
   <description>PersonaxeRSS</description>
   <image>
     <title>Personaxes RSS</title>
-    <link>https://javierbr2.github.io/PersonaxeRSS/</link>
+    <link>https://javierbr2.github.io/personaxeRSS/</link>
   </image>
   <item>
     <title>Neo</title>
-    <link>https://javierbr2.github.io/PersonaxeRSS/neo.html</link>
+    <link>https://javierbr2.github.io/personaxeRSS/neo.html</link>
     <description>Información Neo</description>
   </item>
   <item>
     <title>Morfeo</title>
-    <link>https://javierbr2.github.io/PersonaxeRSS/morfeo.html</link>
+    <link>https://javierbr2.github.io/personaxeRSS/morfeo.html</link>
     <description>Información Morfeo</description>
   </item>
   <item>
     <title>Trinity</title>
-    <link>https://javierbr2.github.io/PersonaxeRSS/trinity.html</link>
+    <link>https://javierbr2.github.io/personaxeRSS/trinity.html</link>
     <description>Información Trinity</description>
   </item>
   <item>
     <title>Oráculo</title>
-    <link>https://javierbr2.github.io/PersonaxeRSS/oraculo.html</link>
+    <link>https://javierbr2.github.io/personaxeRSS/oraculo.html</link>
     <description>Información Oráculo</description>
   </item>
  <item>
     <title>Agente Smith</title>
-    <link>https://javierbr2.github.io/PersonaxeRSS/smith.html</link>
+    <link>https://javierbr2.github.io/personaxeRSS/smith.html</link>
     <description>Información Smith</description>
   </item>
 </channel>
